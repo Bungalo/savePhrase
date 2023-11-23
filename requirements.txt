@@ -1,0 +1,4 @@
+pydub
+Flask
+connexion[flask]
+connexion[uvicorn]
